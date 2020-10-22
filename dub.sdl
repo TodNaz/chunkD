@@ -1,0 +1,6 @@
+name "chunkd"
+description "Chunk parser"
+authors "TodNaz"
+copyright "Copyright © 2020, TodNaz"
+license "MIT"
+dependency "silly" version="~>1.0.2"

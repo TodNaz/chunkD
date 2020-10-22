@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/chunkd
+chunkd.so
+chunkd.dylib
+chunkd.dll
+chunkd.a
+chunkd.lib
+chunkd-test-*
+*.exe
+*.o
+*.obj
+*.lst
